@@ -59,4 +59,4 @@ The PowerBI report could be found here
 
 ## Reference
 
-- Constante, Fabian; Silva, Fernando; Pereira, António (2019), “DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS”, Mendeley Data, V3, [Mendeley Data Source](https://data.mendeley.com/datasets/8gx2fvg2k6/3)
+- Constante, Fabian; Silva, Fernando; Pereira, António (2019), “DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS”, Mendeley Data, V3, [doi: 10.17632/8gx2fvg2k6.3](https://data.mendeley.com/datasets/8gx2fvg2k6/3)
